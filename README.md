@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farzane Ghassemi</h1>
+<h1 align="center">Hi 👋, I'm Farzaneh Ghassemi</h1>
 <h3 align="center">A researcher in the field of artificial intelligence from IRAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghasemi-f2023&label=Profile%20views&color=0e75b6&style=flat" alt="ghasemi-f2023" /> </p>
